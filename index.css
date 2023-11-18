@@ -1,0 +1,15 @@
+body{
+    background-color: #6a7045;
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+}
+.cell{
+    width: 100px;
+    height: 100px;
+    background-color: #b71a3b;
+    margin: 5%;
+}
+.aa{
+    position: absolute;
+    z-index: top;
+}
